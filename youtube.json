@@ -1,0 +1,96 @@
+{
+  "_nota": "La genera scripts/youtube_datos.py. El launcher lee la copia de github.com/Alukarho/VoiceOver-Launcher (main/youtube.json) y, sin internet, esta.",
+  "actualizado": "2026-10-16",
+  "canal": {
+    "nombre": "AI Voiceover MOD Latino",
+    "url": "https://www.youtube.com/@NeoLabs7",
+    "suscriptores": 414,
+    "avatar": "https://yt3.googleusercontent.com/ABJVmAmDmmM59I1tmFfjQFrXohFp-o0Ac-c88E0bl6oJPC0LkvnYfb2qOgHnI0kieLY_8nT9Ag=s0"
+  },
+  "videos": [
+    {
+      "id": "Leq0YNPsSzo",
+      "titulo": "World of Warcraft War Within con Voces IA | Trailer 2 | En Desarrollo",
+      "vistas": 3700,
+      "duracion": 191,
+      "miniatura": "https://i.ytimg.com/vi/Leq0YNPsSzo/hqdefault.jpg"
+    },
+    {
+      "id": "_UCj7qSkn1c",
+      "titulo": "World of Warcraft War Within with AI Voices | All Languages | In Development",
+      "vistas": 2000,
+      "duracion": 254,
+      "miniatura": "https://i.ytimg.com/vi/_UCj7qSkn1c/hqdefault.jpg"
+    },
+    {
+      "id": "BYCi8t35gF0",
+      "titulo": "World of Warcraft Legion | Trailer | enUS | Addon AI VoiceOver-Mod",
+      "vistas": 1800,
+      "duracion": 178,
+      "miniatura": "https://i.ytimg.com/vi/BYCi8t35gF0/hqdefault.jpg"
+    },
+    {
+      "id": "FHJVD7O2bmU",
+      "titulo": "Tráiler de revelación de Eclipse | UMBRAL | World of Warcraft: Midnight | Doblaje Latino Corregido.",
+      "vistas": 1300,
+      "duracion": 170,
+      "miniatura": "https://i.ytimg.com/vi/FHJVD7O2bmU/hqdefault.jpg"
+    },
+    {
+      "id": "zCE2DsL0W7E",
+      "titulo": "World of Warcraft Vanilla con Voces IA -MQ | Trailer | Español de España | Addon VoiceOver-Mod",
+      "vistas": 1200,
+      "duracion": 364,
+      "miniatura": "https://i.ytimg.com/vi/zCE2DsL0W7E/hqdefault.jpg"
+    },
+    {
+      "id": "4mOsGDF95O8",
+      "titulo": "World of Warcraft Vanilla-Latam con Voces IA | Trailer | esMX",
+      "vistas": 1200,
+      "duracion": 184,
+      "miniatura": "https://i.ytimg.com/vi/4mOsGDF95O8/hqdefault.jpg"
+    },
+    {
+      "id": "LitqUAmtD5I",
+      "titulo": "🎤 VoiceOver en WoW Classic: Misiones con Voz en Español Latino 🌟 Descubriendo Darnassus 🌲Gameplay",
+      "vistas": 1200,
+      "duracion": 721,
+      "miniatura": "https://i.ytimg.com/vi/LitqUAmtD5I/hqdefault.jpg"
+    },
+    {
+      "id": "ZNIGGQb0tOE",
+      "titulo": "La Matanza de Stratholme | Warcraft 3 Fan Film de SavingTheWOW | Doblaje Latino",
+      "vistas": 1000,
+      "duracion": 608,
+      "miniatura": "https://i.ytimg.com/vi/ZNIGGQb0tOE/hqdefault.jpg"
+    },
+    {
+      "id": "y6eBmQ9IUSQ",
+      "titulo": "World of Warcraft Classic con Voces IA | Paquete de Baja Calidad | esES-esMX",
+      "vistas": 1000,
+      "duracion": 224,
+      "miniatura": "https://i.ytimg.com/vi/y6eBmQ9IUSQ/hqdefault.jpg"
+    },
+    {
+      "id": "WVcj1CBYrOo",
+      "titulo": "World of Warcraft Pandaria con Voces IA | Trailer | Paquete de Baja Calidad | Addon VoiceOver",
+      "vistas": 957,
+      "duracion": 88,
+      "miniatura": "https://i.ytimg.com/vi/WVcj1CBYrOo/hqdefault.jpg"
+    },
+    {
+      "id": "yMY9TIjMEh8",
+      "titulo": "Addon VoiceOver MOD | World of Warcraft Midnight | Tráiler de Lanzamiento",
+      "vistas": 839,
+      "duracion": 166,
+      "miniatura": "https://i.ytimg.com/vi/yMY9TIjMEh8/hqdefault.jpg"
+    },
+    {
+      "id": "9LR9y7Va1iI",
+      "titulo": "World of Warcraft Wrath of the Lich King con Voces IA -MQ | Trailer | esMX | Addon VoiceOver-Mod",
+      "vistas": 835,
+      "duracion": 297,
+      "miniatura": "https://i.ytimg.com/vi/9LR9y7Va1iI/hqdefault.jpg"
+    }
+  ]
+}
