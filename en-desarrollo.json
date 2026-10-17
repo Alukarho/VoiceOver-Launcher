@@ -1,0 +1,117 @@
+{
+  "_nota": "Packs en los que se está trabajando: se ven en Explorar con su porcentaje, sin descarga. juego = gameVersionTypeId (517 Retail, 88568 Forever, 67408 Classic Era). El launcher lee la copia de github.com/Alukarho/VoiceOver-Launcher (main/en-desarrollo.json) y, sin internet, esta.",
+  "paquetes": [
+    {
+      "id": "midnight-esmx",
+      "juego": [
+        517
+      ],
+      "idioma": "esMX",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Español latino)",
+        "en": "AI VoiceOver Sounds - Midnight (Latin American Spanish)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en español latino.",
+        "en": "Midnight quests voiced in Latin American Spanish."
+      }
+    },
+    {
+      "id": "midnight-enus",
+      "juego": [
+        517
+      ],
+      "idioma": "enUS",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Inglés)",
+        "en": "AI VoiceOver Sounds - Midnight (English)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en inglés.",
+        "en": "Midnight quests voiced in English."
+      }
+    },
+    {
+      "id": "midnight-eses",
+      "juego": [
+        517
+      ],
+      "idioma": "esES",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Español de España)",
+        "en": "AI VoiceOver Sounds - Midnight (European Spanish)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en español de España.",
+        "en": "Midnight quests voiced in European Spanish."
+      }
+    },
+    {
+      "id": "midnight-dede",
+      "juego": [
+        517
+      ],
+      "idioma": "deDE",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Alemán)",
+        "en": "AI VoiceOver Sounds - Midnight (German)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en alemán.",
+        "en": "Midnight quests voiced in German."
+      }
+    },
+    {
+      "id": "midnight-frfr",
+      "juego": [
+        517
+      ],
+      "idioma": "frFR",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Francés)",
+        "en": "AI VoiceOver Sounds - Midnight (French)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en francés.",
+        "en": "Midnight quests voiced in French."
+      }
+    },
+    {
+      "id": "midnight-itit",
+      "juego": [
+        517
+      ],
+      "idioma": "itIT",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Midnight (Italiano)",
+        "en": "AI VoiceOver Sounds - Midnight (Italian)"
+      },
+      "resumen": {
+        "es": "Las misiones de Midnight con voces en italiano.",
+        "en": "Midnight quests voiced in Italian."
+      }
+    },
+    {
+      "id": "forever-esmx",
+      "juego": [
+        88568
+      ],
+      "idioma": "esMX",
+      "progreso": 75,
+      "nombre": {
+        "es": "AI VoiceOver Sounds - Forever (Español latino)",
+        "en": "AI VoiceOver Sounds - Forever (Latin American Spanish)"
+      },
+      "resumen": {
+        "es": "Las misiones de WoW Forever con voces en español latino.",
+        "en": "WoW Forever quests voiced in Latin American Spanish."
+      }
+    }
+  ]
+}
